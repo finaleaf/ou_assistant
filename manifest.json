@@ -1,7 +1,10 @@
 {
   "manifest_version": 2,
   "name": "OU Assistant",
-  "version": "0.1",
+  "version": "0.11",
+  "icons": {
+	"128": "squid128.png"
+  },
   "content_scripts": [
     {
       "matches": [
